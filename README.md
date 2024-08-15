@@ -4,7 +4,7 @@
 Bienvenido al repositorio del proyecto sobre modelos de machine learning en una base de datos publica de kagle sobre el precio de autos.
 
 ## Descripción
-Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelo de Regresión Logistica, GBR, SVR, RFR y MLPREGRESSOR.
+Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelo de Regresión Logistica, GBR, SVR, RFR y MLP REGRESSOR.
 [Data Set](https://www.kaggle.com/datasets/bhavikjikadara/car-price-prediction-dataset).
 
 ## Contenido del Repositorio
