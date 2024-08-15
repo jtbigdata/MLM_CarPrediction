@@ -1,14 +1,14 @@
 <!-- markdown -->
-# pRECIOS DE AUTOS
+# PRECIOS DE AUTOS
 
-Bienvenido al repositorio del proyecto sobre modelos de machine learning en una base de datos publica de kagle sobre el los pagos en mora.
+Bienvenido al repositorio del proyecto sobre modelos de machine learning en una base de datos publica de kagle sobre el precio de autos.
 
 ## Descripción
-Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelo de Regresión Logistica y Random Forest.
-[Data Set](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset).
+Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelo de Regresión Logistica, GBR, SVR, RFR y MLPREGRESSOR.
+[Data Set](https://www.kaggle.com/datasets/bhavikjikadara/car-price-prediction-dataset).
 
 ## Contenido del Repositorio
-- [Data Notebook](https://github.com/jtbigdata/MLM_PagosenMora/blob/main/MLM_PagosenMora.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
+- [Data Notebook](https://github.com/jtbigdata/MLM_CarPrediction/blob/main/MLM_PrediccionPreciosAutos.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
 <!-- Agrega más elementos según sea necesario -->
 
 
